@@ -221,7 +221,7 @@ h1 span {
 .maze-cell.goal::after {
   width: 55%;
   height: 55%;
-  border: 3px solid var(--green);
+  border: 3px solid var(--orange);
   border-radius: 50%;
   background: var(--yellow);
   content: "";
