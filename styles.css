@@ -26,7 +26,7 @@ body {
   margin: 0;
   color: var(--ink);
   background-color: var(--soft-white);
-  background-image: radial-gradient(#b9d6cc 0.7px, transparent 0.7px);
+  background-image: radial-gradient(#d6d1b9 0.7px, transparent 0.7px);
   background-size: 18px 18px;
   font-family: "Avenir Next", Avenir, "Trebuchet MS", sans-serif;
 }
